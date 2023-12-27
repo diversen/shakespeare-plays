@@ -98,3 +98,32 @@ html_files = os.listdir("./html")
 # iterate through the files
 for html_file in html_files:
     html_to_csv(f"./html/{html_file}")
+
+# Generate a single CSV file with all plays
+# Get all files in ./csv directory
+csv_files = os.listdir("./csv")
+
+# Create a list for all play data
+all_play_data = []
+
+# Iterate through the files
+for csv_file in csv_files:
+    with open(f"./csv/{csv_file}", "r") as f:
+        # Create a reader object
+        reader = csv.DictReader(f)
+        # Iterate through the rows
+        for row in reader:
+            all_play_data.append(row)
+
+# Write the data to a CSV file
+with open("./csv/all.csv", "w", newline="") as f:
+    # Create the writer object
+    writer = csv.DictWriter(
+        f, fieldnames=["Chapter", "Player", "Line", "Line ID", "Stage Direction"]
+    )
+
+    # Write the header row
+    writer.writeheader()
+
+    # Write the data row by row
+    writer.writerows(all_play_data)
