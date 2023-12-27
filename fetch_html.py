@@ -36,21 +36,20 @@ soup = BeautifulSoup(html_content, "html5lib")
 
 """
 Inside the 2. table there are links to all plays. 
-These links are only inside the first 3. columns of the table.
+These links are only inside the first 3 columns of the table.
 The links are in a tags inside td tags.
 """
 table = soup.find_all("table")[1]
 for row in table.find_all("tr"):
     for column in row.find_all("td")[:3]:
         for link in column.find_all("a"):
+            
             # Get the link
             link_url = link.get("href")
 
             # split link url by '/' and get the first element
             # this is the play's path
             link_url = "/" + link_url.split("/")[0] + "/full.html"
-
-            print(link_url)
 
             # Get the play name
             play_name = link.text.strip()
