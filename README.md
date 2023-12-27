@@ -8,4 +8,10 @@ The CSV files have the following header:
 
 [fetch_html.py](fetch_html.py) is the script that scrapes the website and saves the html files.
 
-[generate_csv.py](generate_csv.py) is takes all the html files and generates a CSV file per play. 
+[generate_csv.py](generate_csv.py) is takes all the html files and generates a CSV file per play.
+
+Inside [html](html) there are the html files for each play.
+
+Inside [csv](csv) there are the CSV files for each play.
+
+Full CSV file: [all.csv](csv/all.csv)
