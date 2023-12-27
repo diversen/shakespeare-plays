@@ -1,6 +1,9 @@
 # Shakespeare scraper
 
-This is a simple script that scrapes the [Shakespeare](http://shakespeare.mit.edu/) website and saves the plays in html files. There is also a script that parses the html files and saves the plays in a CSV files.
+This repository contains 
+
+- A script that scrape the [Shakespeare](http://shakespeare.mit.edu/) website and save the plays in CSV files.
+- A script that parses the html files and saves the plays in CSV format.
 
 The CSV files have the following header: 
 
@@ -10,7 +13,7 @@ The CSV files have the following header:
 
 [generate_csv.py](generate_csv.py) is takes all the html files and generates a CSV file per play.
 
-Inside [html](html) there are the html files for each play.
+Inside [html](html) there are the HTML files for each play.
 
 Inside [csv](csv) there are the CSV files for each play.
 
