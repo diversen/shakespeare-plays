@@ -103,6 +103,10 @@ for html_file in html_files:
 # Get all files in ./csv directory
 csv_files = os.listdir("./csv")
 
+# Remove the all.csv file if it exists
+if "all.csv" in csv_files:
+    csv_files.remove("all.csv")
+
 # Create a list for all play data
 all_play_data = []
 
