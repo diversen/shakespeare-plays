@@ -71,11 +71,14 @@ for row in table.find_all("tr"):
                 c for c in play_name_file if c.isalnum() or c == "_"
             )
             
-            play_name_file = f"{play_name_file}.html"
-            play_file = f"./html/{play_name_file}"
+            play_name_html = f"{play_name_file}.html"
+            play_name_csv = f"{play_name_file}.csv"
+
+            play_file = f"./html/{play_name_html}"
 
             play_meta["name"] = play_name
-            play_meta["file_name"] = play_name_file 
+            play_meta["file_name_html"] = play_name_html
+            play_meta["file_name_csv"] = play_name_csv
 
             # Fetch the HTML content from the URL using the adjusted session
             response = session.get(url + link_url)
