@@ -1,0 +1,11 @@
+p {
+    margin: 0;
+    padding: 0;
+}
+
+blockquote {
+    border-left: unset;
+    margin: 1.5em 0;
+    padding: 0em 1em;
+    font-style: unset;
+}
