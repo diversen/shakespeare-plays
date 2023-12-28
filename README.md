@@ -16,3 +16,4 @@ The script [bin/generate_csv.py](bin/generate_csv.py) is used to generate the CS
 
 The script [bin/fetch_html.py](bin/fetch_html.py) is used to fetch the HTML files from MIT.
 
+
