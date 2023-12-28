@@ -1,3 +1,7 @@
+""""
+Script that generates markdown files from the csv files
+"""
+
 import json
 import csv
 
@@ -7,14 +11,11 @@ with open("./plays_meta.json", "r") as f:
 
 
 def convert_to_md(play_meta):
-    
     # read csv
-    with open(f"./csv/{play_meta['file_name_csv']}", "r") as f:
+    with open(f"./csv/{play_meta['file_name']}.csv", "r") as f:
         reader = csv.DictReader(f)
         play_data = list(reader)
 
-    # print(play_data)
-    
     markdown = ""
 
     # Iterate through the play data
@@ -25,11 +26,10 @@ def convert_to_md(play_meta):
     # Player is bold
     # Line is a blockquote (Line ID is a attr on the Line blockquote)
     # If there is a Line then there is a Line ID
-    # Stage Direction is a blockquote with italic text 
-
+    # Stage Direction is a blockquote with italic text
+    #
     # Iterate through the play data
     for row in play_data:
-        # print(row)
         # Title,Chapter,Player,Line,Line ID,Stage Direction
         if row["Title"]:
             markdown += f"# {row['Title']}\n\n"
@@ -43,12 +43,13 @@ def convert_to_md(play_meta):
             markdown += f"> *{row['Stage Direction']}*\n\n"
 
     # save file to ./md directory
-    file_name_md = play_meta["file_name"] = play_meta["file_name_csv"].replace(".csv", ".md")
-    with open(f"./md/{play_meta['file_name_md']}", "w") as f:
+    with open(f"./md/{play_meta['file_name']}.md", "w") as f:
         f.write(markdown)
+
+    # pandoc -s md/alls_well_that_ends_well.md -o test.html
+
 
 # iterate through the plays_meta
 for play_meta in plays_meta:
     convert_to_md(play_meta)
-    
-        
+    # exit()
