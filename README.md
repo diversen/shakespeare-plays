@@ -1,4 +1,4 @@
-# Shakespeare-plays
+# Shakespeare's plays
 
 This repository contains HTML and CSV versions of all Shakespeare's plays.
 
