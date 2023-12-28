@@ -1,6 +1,6 @@
 # Othello
 
-### ACT I
+## ACT I
 
 ### SCENE I. Venice. A street.
 
@@ -1862,7 +1862,7 @@
 
 > *Exit*
 
-### ACT II
+## ACT II
 
 ### SCENE I. A Sea-port in Cyprus. An open place near the quay.
 
@@ -3802,7 +3802,7 @@
 
 > *Exit*
 
-### ACT III
+## ACT III
 
 ### SCENE I. Before the castle.
 
@@ -6108,7 +6108,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. Cyprus. Before the castle.
 
@@ -8154,7 +8154,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Cyprus. A street.
 

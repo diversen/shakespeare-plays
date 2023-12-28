@@ -1,6 +1,6 @@
 # Cymbeline
 
-### ACT I
+## ACT I
 
 ### SCENE I. Britain. The garden of Cymbeline's palace.
 
@@ -2140,7 +2140,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. Britain. Before Cymbeline's palace.
 
@@ -3548,7 +3548,7 @@
 
 > *Exit*
 
-### ACT III
+## ACT III
 
 ### SCENE I. Britain. A hall in Cymbeline's palace.
 
@@ -5632,7 +5632,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. Wales: near the cave of Belarius.
 
@@ -7266,7 +7266,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Britain. The Roman camp.
 

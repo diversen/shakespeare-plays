@@ -1,6 +1,6 @@
 # Hamlet
 
-### ACT I
+## ACT I
 
 ### SCENE I. Elsinore. A platform before the castle.
 
@@ -2418,7 +2418,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. A room in POLONIUS' house.
 
@@ -4374,7 +4374,7 @@
 
 > *Exit*
 
-### ACT III
+## ACT III
 
 ### SCENE I. A room in the castle.
 
@@ -6850,7 +6850,7 @@
 
 > *Exeunt severally; HAMLET dragging in POLONIUS*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. A room in the castle.
 
@@ -8714,7 +8714,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. A churchyard.
 

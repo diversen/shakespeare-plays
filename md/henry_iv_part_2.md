@@ -92,7 +92,7 @@
 
 > *Exit*
 
-### ACT I
+## ACT I
 
 ### SCENE I. The same.
 
@@ -1502,7 +1502,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. London. A street.
 
@@ -3708,7 +3708,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. Westminster. The palace.
 
@@ -4864,7 +4864,7 @@
 
 > *Exit*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. Yorkshire. Gaultree Forest.
 
@@ -7058,7 +7058,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Gloucestershire. SHALLOW'S house.
 

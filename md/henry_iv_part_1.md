@@ -1,6 +1,6 @@
 # Henry IV, part 1
 
-### ACT I
+## ACT I
 
 ### SCENE I. London. The palace.
 
@@ -1542,7 +1542,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. Rochester. An inn yard.
 
@@ -3940,7 +3940,7 @@
 
 > Good morrow, good my lord.  
 
-### ACT III
+## ACT III
 
 ### SCENE I. Bangor. The Archdeacon's house.
 
@@ -5610,7 +5610,7 @@
 
 > *Exit*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. The rebel camp near Shrewsbury.
 
@@ -6604,7 +6604,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. KING HENRY IV's camp near Shrewsbury.
 

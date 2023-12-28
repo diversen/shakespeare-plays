@@ -1,6 +1,6 @@
 # Pericles, Prince of Tyre
 
-### ACT I
+## ACT I
 
 ### PROLOGUE
 
@@ -1220,7 +1220,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 > *Enter GOWER*
 
@@ -2732,7 +2732,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 > *Enter GOWER*
 
@@ -3618,7 +3618,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 > *Enter GOWER*
 
@@ -5316,7 +5316,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 > *Enter GOWER*
 

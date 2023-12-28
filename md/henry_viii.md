@@ -1,6 +1,6 @@
 # Henry VIII
 
-### ACT I
+## ACT I
 
 ### PROLOGUE
 
@@ -1946,7 +1946,7 @@
 
 > *Exeunt with trumpets*
 
-### ACT II
+## ACT II
 
 ### SCENE I. Westminster. A street.
 
@@ -3818,7 +3818,7 @@
 
 > *Exeunt in manner as they entered*
 
-### ACT III
+## ACT III
 
 ### SCENE I. London. QUEEN KATHARINE's apartments.
 
@@ -5628,7 +5628,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. A street in Westminster.
 
@@ -6566,7 +6566,7 @@
 
 > *Exeunt, leading KATHARINE*
 
-### ACT V
+## ACT V
 
 ### SCENE I. London. A gallery in the palace.
 

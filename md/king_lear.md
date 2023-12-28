@@ -1,6 +1,6 @@
 # King Lear
 
-### ACT I
+## ACT I
 
 ### SCENE I. King Lear's palace.
 
@@ -2592,7 +2592,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. GLOUCESTER's castle.
 
@@ -4448,7 +4448,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. A heath.
 
@@ -6192,7 +6192,7 @@
 
 > *Exeunt severally*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. The heath.
 
@@ -8296,7 +8296,7 @@
 
 > *Exit*
 
-### ACT V
+## ACT V
 
 ### SCENE I. The British camp, near Dover.
 

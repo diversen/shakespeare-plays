@@ -1,6 +1,6 @@
 # The Merchant of Venice
 
-### ACT I
+## ACT I
 
 ### SCENE I. Venice. A street.
 
@@ -1246,7 +1246,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. Belmont. A room in PORTIA'S house.
 
@@ -3034,7 +3034,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. Venice. A street.
 
@@ -4700,7 +4700,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. Venice. A court of justice.
 
@@ -6016,7 +6016,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Belmont. Avenue to PORTIA'S house.
 

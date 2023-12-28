@@ -1,6 +1,6 @@
 # The Merry Wives of Windsor
 
-### ACT I
+## ACT I
 
 ### SCENE I. Windsor. Before PAGE's house.
 
@@ -1626,7 +1626,7 @@
 
 > *Exit*
 
-### ACT II
+## ACT II
 
 ### SCENE I. Before PAGE'S house.
 
@@ -3290,7 +3290,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. A field near Frogmore.
 
@@ -5222,7 +5222,7 @@
 
 > *Exit*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. A street.
 
@@ -6846,7 +6846,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. A room in the Garter Inn.
 

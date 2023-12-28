@@ -1,6 +1,6 @@
 # Timon of Athens
 
-### ACT I
+## ACT I
 
 ### SCENE I. Athens. A hall in Timon's house.
 
@@ -1696,7 +1696,7 @@
 
 > *Exit*
 
-### ACT II
+## ACT II
 
 ### SCENE I. A Senator's house.
 
@@ -2510,7 +2510,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. A room in Lucullus' house.
 
@@ -4120,7 +4120,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. Without the walls of Athens.
 
@@ -5854,7 +5854,7 @@
 
 > *Exit FLAVIUS. TIMON retires to his cave*
 
-### ACT V
+## ACT V
 
 ### SCENE I. The woods. Before Timon's cave.
 

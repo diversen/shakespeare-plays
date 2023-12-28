@@ -1,6 +1,6 @@
 # The Tempest
 
-### ACT I
+## ACT I
 
 ### SCENE I. On a ship at sea: a tempestuous noise
 
@@ -1726,7 +1726,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. Another part of the island.
 
@@ -3290,7 +3290,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. Before PROSPERO'S Cell.
 
@@ -4362,7 +4362,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. Before PROSPERO'S cell.
 
@@ -5128,7 +5128,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Before PROSPERO'S cell.
 

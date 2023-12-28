@@ -1,6 +1,6 @@
 # Henry V
 
-### ACT I
+## ACT I
 
 ### PROLOGUE
 
@@ -1036,7 +1036,7 @@
 
 > *Exeunt. Flourish*
 
-### ACT II
+## ACT II
 
 ### PROLOGUE
 
@@ -2460,7 +2460,7 @@
 
 > *Flourish. Exeunt*
 
-### ACT III
+## ACT III
 
 ### PROLOGUE
 
@@ -4342,7 +4342,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### PROLOGUE
 
@@ -6976,7 +6976,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### PROLOGUE
 

@@ -1,6 +1,6 @@
 # Twelfth Night
 
-### ACT I
+## ACT I
 
 ### SCENE I. DUKE ORSINO's palace.
 
@@ -1684,7 +1684,7 @@
 
 > *Exit*
 
-### ACT II
+## ACT II
 
 ### SCENE I. The sea-coast.
 
@@ -3390,7 +3390,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. OLIVIA's garden.
 
@@ -5362,7 +5362,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. Before OLIVIA's house.
 
@@ -6012,7 +6012,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Before OLIVIA's house.
 

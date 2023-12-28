@@ -1,6 +1,6 @@
 # As You Like It
 
-### ACT I
+## ACT I
 
 ### SCENE I. Orchard of Oliver's house.
 
@@ -1590,7 +1590,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. The Forest of Arden.
 
@@ -2982,7 +2982,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. A room in the palace.
 
@@ -4930,7 +4930,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. The forest.
 
@@ -6050,7 +6050,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. The forest.
 

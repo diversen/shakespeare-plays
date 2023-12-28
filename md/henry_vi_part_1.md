@@ -1,6 +1,6 @@
 # Henry VI, part 1
 
-### ACT I
+## ACT I
 
 ### SCENE I. Westminster Abbey.
 
@@ -1580,7 +1580,7 @@
 
 > *Flourish. Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. Before Orleans.
 
@@ -2984,7 +2984,7 @@
 
 > *Exit*
 
-### ACT III
+## ACT III
 
 ### SCENE I. London. The Parliament-house.
 
@@ -4324,7 +4324,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. Paris. A hall of state.
 
@@ -5748,7 +5748,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. London. The palace.
 

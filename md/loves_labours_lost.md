@@ -1,6 +1,6 @@
 # Love's Labours Lost
 
-### ACT I
+## ACT I
 
 ### SCENE I. The king of Navarre's park.
 
@@ -1442,7 +1442,7 @@
 
 > LOVE'S LABOURS LOST  
 
-### ACT II
+## ACT II
 
 ### SCENE I. The same.
 
@@ -2228,7 +2228,7 @@
 
 > LOVE'S LABOURS LOST  
 
-### ACT III
+## ACT III
 
 ### SCENE I. The same.
 
@@ -2856,7 +2856,7 @@
 
 > LOVE'S LABOURS LOST  
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. The same.
 
@@ -4802,7 +4802,7 @@
 
 > LOVE'S LABOURS LOST  
 
-### ACT V
+## ACT V
 
 ### SCENE I. The same.
 

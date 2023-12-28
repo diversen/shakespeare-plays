@@ -1,6 +1,6 @@
 # Coriolanus
 
-### ACT I
+## ACT I
 
 ### SCENE I. Rome. A street.
 
@@ -2290,7 +2290,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. Rome. A public place.
 
@@ -4334,7 +4334,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. Rome. A street.
 
@@ -6434,7 +6434,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. Rome. Before a gate of the city.
 
@@ -8420,7 +8420,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Rome. A public place.
 

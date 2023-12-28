@@ -1,6 +1,6 @@
 # Richard III
 
-### ACT I
+## ACT I
 
 ### SCENE I. London. A street.
 
@@ -2890,7 +2890,7 @@
 
 > For this will out, and here I must not stay.  
 
-### ACT II
+## ACT II
 
 ### SCENE I. London. The palace.
 
@@ -4056,7 +4056,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. London. A street.
 
@@ -6352,7 +6352,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. Before the Tower.
 
@@ -8790,7 +8790,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Salisbury. An open place.
 

@@ -1,6 +1,6 @@
 # King John
 
-### ACT I
+## ACT I
 
 ### SCENE I. KING JOHN'S palace.
 
@@ -696,7 +696,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. France. Before Angiers.
 
@@ -2172,7 +2172,7 @@
 
 > *Exit*
 
-### ACT III
+## ACT III
 
 ### SCENE I. The French King's pavilion.
 
@@ -3750,7 +3750,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. A room in a castle.
 
@@ -5282,7 +5282,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. KING JOHN'S palace.
 

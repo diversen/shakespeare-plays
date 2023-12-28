@@ -1,6 +1,6 @@
 # Much Ado About Nothing
 
-### ACT I
+## ACT I
 
 ### SCENE I. Before LEONATO'S house.
 
@@ -1092,7 +1092,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. A hall in LEONATO'S house.
 
@@ -2924,7 +2924,7 @@
 
 > *Exit*
 
-### ACT III
+## ACT III
 
 ### SCENE I. LEONATO'S garden.
 
@@ -4526,7 +4526,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. A church.
 
@@ -5694,7 +5694,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Before LEONATO'S house.
 

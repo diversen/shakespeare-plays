@@ -1,6 +1,6 @@
 # Troilus and Cressida
 
-### ACT I
+## ACT I
 
 ### PROLOGUE
 
@@ -2178,7 +2178,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. A part of the Grecian camp.
 
@@ -3856,7 +3856,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. Troy. Priam's palace.
 
@@ -5686,7 +5686,7 @@
 
 > *Exit*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. Troy. A street.
 
@@ -7622,7 +7622,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. The Grecian camp. Before Achilles' tent.
 

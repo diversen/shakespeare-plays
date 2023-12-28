@@ -1,6 +1,6 @@
 # A Midsummer Night's Dream
 
-### ACT I
+## ACT I
 
 ### SCENE I. Athens. The palace of THESEUS.
 
@@ -918,7 +918,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. A wood near Athens.
 
@@ -1952,7 +1952,7 @@
 
 > *Exit*
 
-### ACT III
+## ACT III
 
 ### SCENE I. The wood. TITANIA lying asleep.
 
@@ -3764,7 +3764,7 @@
 
 > *Exit*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. The same. LYSANDER, DEMETRIUS, HELENA, and HERMIA
 
@@ -4464,7 +4464,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Athens. The palace of THESEUS.
 

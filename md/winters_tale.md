@@ -1,6 +1,6 @@
 # Winter's Tale
 
-### ACT I
+## ACT I
 
 ### SCENE I. Antechamber in LEONTES' palace.
 
@@ -1440,7 +1440,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. A room in LEONTES' palace.
 
@@ -2882,7 +2882,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. A sea-port in Sicilia.
 
@@ -3934,7 +3934,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 > SCENE I:  
 
@@ -6884,7 +6884,7 @@
 
 > *Exit*
 
-### ACT V
+## ACT V
 
 ### SCENE I. A room in LEONTES' palace.
 

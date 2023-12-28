@@ -748,7 +748,7 @@
 
 > *Flourish*
 
-### ACT I
+## ACT I
 
 ### SCENE I. Padua. A public place.
 
@@ -2170,7 +2170,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. Padua. A room in BAPTISTA'S house.
 
@@ -3336,7 +3336,7 @@
 
 > *Exit*
 
-### ACT III
+## ACT III
 
 ### SCENE I. Padua. BAPTISTA'S house.
 
@@ -4304,7 +4304,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. PETRUCHIO'S country house.
 
@@ -6326,7 +6326,7 @@
 
 > *Exit*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Padua. Before LUCENTIO'S house.
 

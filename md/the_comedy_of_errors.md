@@ -1,6 +1,6 @@
 # The Comedy of Errors
 
-### ACT I
+## ACT I
 
 ### SCENE I. A hall in DUKE SOLINUS'S palace.
 
@@ -642,7 +642,7 @@
 
 > *Exit*
 
-### ACT II
+## ACT II
 
 ### SCENE I. The house of ANTIPHOLUS of Ephesus.
 
@@ -1638,7 +1638,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. Before the house of ANTIPHOLUS of Ephesus.
 
@@ -2666,7 +2666,7 @@
 
 > *Exit*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. A public place.
 
@@ -4092,7 +4092,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. A street before a Priory.
 

@@ -1,6 +1,6 @@
 # Julius Caesar
 
-### ACT I
+## ACT I
 
 ### SCENE I. Rome. A street.
 
@@ -1482,7 +1482,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. Rome. BRUTUS's orchard.
 
@@ -2944,7 +2944,7 @@
 
 > *Exeunt severally*
 
-### ACT III
+## ACT III
 
 ### SCENE I. Rome. Before the Capitol; the Senate sitting above.
 
@@ -4686,7 +4686,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. A house in Rome.
 
@@ -6038,7 +6038,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. The plains of Philippi.
 

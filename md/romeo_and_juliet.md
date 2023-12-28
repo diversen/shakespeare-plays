@@ -1,6 +1,6 @@
 # Romeo and Juliet
 
-### ACT I
+## ACT I
 
 ### PROLOGUE
 
@@ -2034,7 +2034,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### PROLOGUE
 
@@ -3898,7 +3898,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. A public place.
 
@@ -6032,7 +6032,7 @@
 
 > *Exit*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. Friar Laurence's cell.
 
@@ -7156,7 +7156,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Mantua. A street.
 

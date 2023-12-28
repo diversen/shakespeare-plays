@@ -1,6 +1,6 @@
 # Macbeth
 
-### ACT I
+## ACT I
 
 ### SCENE I. A desert place.
 
@@ -1386,7 +1386,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. Court of Macbeth's castle.
 
@@ -2502,7 +2502,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. Forres. The palace.
 
@@ -3858,7 +3858,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. A cavern. In the middle, a boiling cauldron.
 
@@ -5340,7 +5340,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Dunsinane. Ante-room in the castle.
 

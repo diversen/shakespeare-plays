@@ -1,6 +1,6 @@
 # Antony and Cleopatra
 
-### ACT I
+## ACT I
 
 ### SCENE I. Alexandria. A room in CLEOPATRA's palace.
 
@@ -1624,7 +1624,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. Messina. POMPEY's house.
 
@@ -4132,7 +4132,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. A plain in Syria.
 
@@ -6630,7 +6630,7 @@
 
 > *Exit*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. Before Alexandria. OCTAVIUS CAESAR's camp.
 
@@ -8632,7 +8632,7 @@
 
 > *Exeunt; those above bearing off MARK ANTONY's body*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Alexandria. OCTAVIUS CAESAR's camp.
 

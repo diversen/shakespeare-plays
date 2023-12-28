@@ -1,6 +1,6 @@
 # Titus Andronicus
 
-### ACT I
+## ACT I
 
 ### SCENE I. Rome. Before the Capitol.
 
@@ -1292,7 +1292,7 @@
 
 > *Flourish. Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. Rome. Before the Palace.
 
@@ -2682,7 +2682,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. Rome. A street.
 
@@ -3648,7 +3648,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. Rome. Titus's garden.
 
@@ -5110,7 +5110,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Plains near Rome.
 

@@ -1,6 +1,6 @@
 # Two Gentlemen of Verona
 
-### ACT I
+## ACT I
 
 ### SCENE I. Verona. An open place.
 
@@ -1130,7 +1130,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. Milan. The DUKE's palace.
 
@@ -3026,7 +3026,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. Milan. The DUKE's palace.
 
@@ -4328,7 +4328,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. The frontiers of Mantua. A forest.
 
@@ -5652,7 +5652,7 @@
 
 > *Exit*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Milan. An abbey.
 

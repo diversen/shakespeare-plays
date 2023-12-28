@@ -1,6 +1,6 @@
 # Measure for Measure
 
-### ACT I
+## ACT I
 
 ### SCENE I. An apartment in the DUKE'S palace.
 
@@ -1182,7 +1182,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. A hall In ANGELO's house.
 
@@ -3242,7 +3242,7 @@
 
 > *Exit*
 
-### ACT III
+## ACT III
 
 ### SCENE I. A room in the prison.
 
@@ -4710,7 +4710,7 @@
 
 > *Exit*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. The moated grange at ST. LUKE's.
 
@@ -6248,7 +6248,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. The city gate.
 

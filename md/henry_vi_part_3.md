@@ -1,6 +1,6 @@
 # Henry VI, part 3
 
-### ACT I
+## ACT I
 
 ### SCENE I. London. The Parliament-house.
 
@@ -1628,7 +1628,7 @@
 
 > *Flourish. Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. A plain near Mortimer's Cross in Herefordshire.
 
@@ -3386,7 +3386,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. A forest in the north of England.
 
@@ -4962,7 +4962,7 @@
 
 > *Exit*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. London. The palace.
 
@@ -6538,7 +6538,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Coventry.
 

@@ -1,6 +1,6 @@
 # Richard II
 
-### ACT I
+## ACT I
 
 ### SCENE I. London. KING RICHARD II's palace.
 
@@ -1580,7 +1580,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. Ely House.
 
@@ -3212,7 +3212,7 @@
 
 > *Exit*
 
-### ACT III
+## ACT III
 
 ### SCENE I. Bristol. Before the castle.
 
@@ -4632,7 +4632,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. Westminster Hall.
 
@@ -5480,7 +5480,7 @@
 
 > *Exeunt*
 
-### ACT V
+## ACT V
 
 ### SCENE I. London. A street leading to the Tower.
 

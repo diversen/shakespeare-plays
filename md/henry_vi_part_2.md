@@ -1,6 +1,6 @@
 # Henry VI, part 2
 
-### ACT I
+## ACT I
 
 ### SCENE I. London. The palace.
 
@@ -1714,7 +1714,7 @@
 
 > *Exeunt*
 
-### ACT II
+## ACT II
 
 ### SCENE I. Saint Alban's.
 
@@ -3146,7 +3146,7 @@
 
 > *Exeunt*
 
-### ACT III
+## ACT III
 
 ### SCENE I. The Abbey at Bury St. Edmund's.
 
@@ -5196,7 +5196,7 @@
 
 > *Exeunt*
 
-### ACT IV
+## ACT IV
 
 ### SCENE I. The coast of Kent.
 
@@ -7312,7 +7312,7 @@
 
 > *Exit*
 
-### ACT V
+## ACT V
 
 ### SCENE I. Fields between Dartford and Blackheath.
 
