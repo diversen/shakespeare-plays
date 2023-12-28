@@ -10,7 +10,7 @@ All exported plays as a single CSV file can be found in [csv/all.csv](csv/all.cs
 
 The CSV files have the following header: 
 
-    Chapter,Player,Line,Line ID,Stage Direction
+    Title,Chapter,Player,Line,Line ID,Stage Direction
 
 The script [bin/generate_csv.py](bin/generate_csv.py) is used to generate the CSV files.
 
