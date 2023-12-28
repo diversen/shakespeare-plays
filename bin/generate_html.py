@@ -13,9 +13,13 @@ with open("./plays_meta.json", "r") as f:
     for play_meta in plays_meta:
         name = play_meta["name"]
         file_name = play_meta["file_name"]
-        command = f'pandoc -s md/{file_name}.md -o docs/{file_name}.html --metadata title="{name}"'
 
+        if file_name != "hamlet":
+            continue
         
+        command = f'pandoc -s md/{file_name}.md -o docs/{file_name}.html --toc --metadata title="{name}" --template=template.html'
 
+        os.system(command)
+        # exit()
 
 # print(plays_meta)
