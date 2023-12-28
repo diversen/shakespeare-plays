@@ -1,9 +1,13 @@
 from bs4 import BeautifulSoup
 import csv
 import os
+import json
 
 
-def html_to_csv(path):
+def html_to_csv(play_meta):
+
+    path = f"./html/{play_meta['file_name']}"
+    play_name = play_meta["name"]
     
     # e.g.: ./html/hamlet.html
     with open(path, "r") as f:
@@ -15,6 +19,7 @@ def html_to_csv(path):
     # Create a data dictionary
     def get_data_dict():
         return {
+            "Title": "", 
             "Chapter": "",
             "Player": "",
             "Line": "",
@@ -34,6 +39,9 @@ def html_to_csv(path):
             data_dict[key] = value
 
         play_data.append(data_dict)
+
+    # Set the play name
+    set_play_data({"Title": play_name})
 
     # Iterate through the HTML elements
     for element in soup.body:
@@ -82,7 +90,7 @@ def html_to_csv(path):
         
         # Create the writer object
         writer = csv.DictWriter(
-            f, fieldnames=["Chapter", "Player", "Line", "Line ID", "Stage Direction"]
+            f, fieldnames=["Title", "Chapter", "Player", "Line", "Line ID", "Stage Direction"]
         )
 
         # Write the header row
@@ -95,9 +103,15 @@ def html_to_csv(path):
 # get all files in ./html directory
 html_files = os.listdir("./html")
 
+# read the play meta data
+with open("./plays_meta.json", "r") as f:
+    plays_meta = json.load(f)
+
 # iterate through the files
-for html_file in html_files:
-    html_to_csv(f"./html/{html_file}")
+for play_meta in plays_meta:
+    html_file = play_meta["file_name"]
+    print(f"Converting {html_file} to CSV")
+    html_to_csv(play_meta)
 
 # Generate a single CSV file with all plays
 # Get all files in ./csv directory
@@ -123,7 +137,7 @@ for csv_file in csv_files:
 with open("./csv/all.csv", "w", newline="") as f:
     # Create the writer object
     writer = csv.DictWriter(
-        f, fieldnames=["Chapter", "Player", "Line", "Line ID", "Stage Direction"]
+        f, fieldnames=["Title", "Chapter", "Player", "Line", "Line ID", "Stage Direction"]
     )
 
     # Write the header row

@@ -9,7 +9,7 @@ import ssl
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.poolmanager import PoolManager
 from bs4 import BeautifulSoup
-import csv
+import json
 
 
 class MyAdapter(HTTPAdapter):
@@ -39,11 +39,14 @@ Inside the 2. table there are links to all plays.
 These links are only inside the first 3 columns of the table.
 The links are in a tags inside td tags.
 """
+plays_meta = []
+
 table = soup.find_all("table")[1]
 for row in table.find_all("tr"):
     for column in row.find_all("td")[:3]:
         for link in column.find_all("a"):
-            
+            play_meta = {}
+
             # Get the link
             link_url = link.get("href")
 
@@ -53,22 +56,26 @@ for row in table.find_all("tr"):
 
             # Get the play name
             play_name = link.text.strip()
-            
+
             # change new lines to spaces
             play_name = play_name.replace("\n", " ")
 
             # change spaces to underscores
-            play_name = play_name.replace(" ", "_")
+            play_name_file = play_name.replace(" ", "_")
 
             # to lowercase
-            play_name = play_name.lower()
+            play_name_file = play_name_file.lower()
 
             # remove any non alphanumeric characters except underscores
-            play_name = "".join(
-                c for c in play_name if c.isalnum() or c == "_"
+            play_name_file = "".join(
+                c for c in play_name_file if c.isalnum() or c == "_"
             )
+            
+            play_name_file = f"{play_name_file}.html"
+            play_file = f"./html/{play_name_file}"
 
-            play_file = f"./html/{play_name}.html"
+            play_meta["name"] = play_name
+            play_meta["file_name"] = play_name_file 
 
             # Fetch the HTML content from the URL using the adjusted session
             response = session.get(url + link_url)
@@ -77,3 +84,9 @@ for row in table.find_all("tr"):
             # Save the HTML content to a file
             with open(play_file, "w") as f:
                 f.write(html_content)
+
+            plays_meta.append(play_meta)
+
+            # write the play meta to a json file
+            with open("./plays_meta.json", "w") as f:
+                json.dump(plays_meta, f, indent=4)
