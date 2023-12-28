@@ -2,7 +2,7 @@
 
 This repository contains HTML and CSV versions of all Shakespeare's plays.
 
-The downloaded HTML files: [html](html).
+The downloaded HTML files: [html](html). There are downloaded from [https://shakespeare.mit.edu/ ](https://shakespeare.mit.edu/)
 
 The exported CSV files: [csv](csv).
 
