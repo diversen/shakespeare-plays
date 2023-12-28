@@ -6,7 +6,7 @@ import json
 
 def html_to_csv(play_meta):
 
-    path = f"./html/{play_meta['file_name_html']}"
+    path = f"./html/{play_meta['file_name']}.html"
     play_name = play_meta["name"]
     
     # e.g.: ./html/hamlet.html
@@ -109,7 +109,7 @@ with open("./plays_meta.json", "r") as f:
 
 # iterate through the files
 for play_meta in plays_meta:
-    html_file = play_meta["file_name_html"]
+    html_file = play_meta["file_name"]
     print(f"Converting {html_file} to CSV")
     html_to_csv(play_meta)
 

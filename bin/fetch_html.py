@@ -70,26 +70,23 @@ for row in table.find_all("tr"):
             play_name_file = "".join(
                 c for c in play_name_file if c.isalnum() or c == "_"
             )
-            
-            play_name_html = f"{play_name_file}.html"
-            play_name_csv = f"{play_name_file}.csv"
 
-            play_file = f"./html/{play_name_html}"
+            play_name_html = f"./html/{play_name_file}.html"
 
             play_meta["name"] = play_name
-            play_meta["file_name_html"] = play_name_html
-            play_meta["file_name_csv"] = play_name_csv
+            play_meta["file_name"] = play_name_file
 
             # Fetch the HTML content from the URL using the adjusted session
             response = session.get(url + link_url)
             html_content = response.text
 
             # Save the HTML content to a file
-            with open(play_file, "w") as f:
+            with open(play_name_html, "w") as f:
+                print(f"Saving {play_name_html}")
                 f.write(html_content)
 
             plays_meta.append(play_meta)
 
-            # write the play meta to a json file
-            with open("./plays_meta.json", "w") as f:
-                json.dump(plays_meta, f, indent=4)
+# write the play meta to a json file
+with open("./plays_meta.json", "w") as f:
+    json.dump(plays_meta, f, indent=4)
