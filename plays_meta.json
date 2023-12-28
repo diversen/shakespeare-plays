@@ -1,187 +1,150 @@
 [
     {
         "name": "All's Well That Ends Well",
-        "file_name_html": "alls_well_that_ends_well.html",
-        "file_name_csv": "alls_well_that_ends_well.csv"
+        "file_name": "alls_well_that_ends_well"
     },
     {
         "name": "As You Like It",
-        "file_name_html": "as_you_like_it.html",
-        "file_name_csv": "as_you_like_it.csv"
+        "file_name": "as_you_like_it"
     },
     {
         "name": "The Comedy of Errors",
-        "file_name_html": "the_comedy_of_errors.html",
-        "file_name_csv": "the_comedy_of_errors.csv"
+        "file_name": "the_comedy_of_errors"
     },
     {
         "name": "Cymbeline",
-        "file_name_html": "cymbeline.html",
-        "file_name_csv": "cymbeline.csv"
+        "file_name": "cymbeline"
     },
     {
         "name": "Love's Labours Lost",
-        "file_name_html": "loves_labours_lost.html",
-        "file_name_csv": "loves_labours_lost.csv"
+        "file_name": "loves_labours_lost"
     },
     {
         "name": "Measure for Measure",
-        "file_name_html": "measure_for_measure.html",
-        "file_name_csv": "measure_for_measure.csv"
+        "file_name": "measure_for_measure"
     },
     {
         "name": "The Merry Wives of Windsor",
-        "file_name_html": "the_merry_wives_of_windsor.html",
-        "file_name_csv": "the_merry_wives_of_windsor.csv"
+        "file_name": "the_merry_wives_of_windsor"
     },
     {
         "name": "The Merchant of Venice",
-        "file_name_html": "the_merchant_of_venice.html",
-        "file_name_csv": "the_merchant_of_venice.csv"
+        "file_name": "the_merchant_of_venice"
     },
     {
         "name": "A Midsummer Night's Dream",
-        "file_name_html": "a_midsummer_nights_dream.html",
-        "file_name_csv": "a_midsummer_nights_dream.csv"
+        "file_name": "a_midsummer_nights_dream"
     },
     {
         "name": "Much Ado About Nothing",
-        "file_name_html": "much_ado_about_nothing.html",
-        "file_name_csv": "much_ado_about_nothing.csv"
+        "file_name": "much_ado_about_nothing"
     },
     {
         "name": "Pericles, Prince of Tyre",
-        "file_name_html": "pericles_prince_of_tyre.html",
-        "file_name_csv": "pericles_prince_of_tyre.csv"
+        "file_name": "pericles_prince_of_tyre"
     },
     {
         "name": "Taming of the Shrew",
-        "file_name_html": "taming_of_the_shrew.html",
-        "file_name_csv": "taming_of_the_shrew.csv"
+        "file_name": "taming_of_the_shrew"
     },
     {
         "name": "The Tempest",
-        "file_name_html": "the_tempest.html",
-        "file_name_csv": "the_tempest.csv"
+        "file_name": "the_tempest"
     },
     {
         "name": "Troilus and Cressida",
-        "file_name_html": "troilus_and_cressida.html",
-        "file_name_csv": "troilus_and_cressida.csv"
+        "file_name": "troilus_and_cressida"
     },
     {
         "name": "Twelfth Night",
-        "file_name_html": "twelfth_night.html",
-        "file_name_csv": "twelfth_night.csv"
+        "file_name": "twelfth_night"
     },
     {
         "name": "Two Gentlemen of Verona",
-        "file_name_html": "two_gentlemen_of_verona.html",
-        "file_name_csv": "two_gentlemen_of_verona.csv"
+        "file_name": "two_gentlemen_of_verona"
     },
     {
         "name": "Winter's Tale",
-        "file_name_html": "winters_tale.html",
-        "file_name_csv": "winters_tale.csv"
+        "file_name": "winters_tale"
     },
     {
         "name": "Henry IV, part 1",
-        "file_name_html": "henry_iv_part_1.html",
-        "file_name_csv": "henry_iv_part_1.csv"
+        "file_name": "henry_iv_part_1"
     },
     {
         "name": "Henry IV, part 2",
-        "file_name_html": "henry_iv_part_2.html",
-        "file_name_csv": "henry_iv_part_2.csv"
+        "file_name": "henry_iv_part_2"
     },
     {
         "name": "Henry V",
-        "file_name_html": "henry_v.html",
-        "file_name_csv": "henry_v.csv"
+        "file_name": "henry_v"
     },
     {
         "name": "Henry VI, part 1",
-        "file_name_html": "henry_vi_part_1.html",
-        "file_name_csv": "henry_vi_part_1.csv"
+        "file_name": "henry_vi_part_1"
     },
     {
         "name": "Henry VI, part 2",
-        "file_name_html": "henry_vi_part_2.html",
-        "file_name_csv": "henry_vi_part_2.csv"
+        "file_name": "henry_vi_part_2"
     },
     {
         "name": "Henry VI, part 3",
-        "file_name_html": "henry_vi_part_3.html",
-        "file_name_csv": "henry_vi_part_3.csv"
+        "file_name": "henry_vi_part_3"
     },
     {
         "name": "Henry VIII",
-        "file_name_html": "henry_viii.html",
-        "file_name_csv": "henry_viii.csv"
+        "file_name": "henry_viii"
     },
     {
         "name": "King John",
-        "file_name_html": "king_john.html",
-        "file_name_csv": "king_john.csv"
+        "file_name": "king_john"
     },
     {
         "name": "Richard II",
-        "file_name_html": "richard_ii.html",
-        "file_name_csv": "richard_ii.csv"
+        "file_name": "richard_ii"
     },
     {
         "name": "Richard III",
-        "file_name_html": "richard_iii.html",
-        "file_name_csv": "richard_iii.csv"
+        "file_name": "richard_iii"
     },
     {
         "name": "Antony and Cleopatra",
-        "file_name_html": "antony_and_cleopatra.html",
-        "file_name_csv": "antony_and_cleopatra.csv"
+        "file_name": "antony_and_cleopatra"
     },
     {
         "name": "Coriolanus",
-        "file_name_html": "coriolanus.html",
-        "file_name_csv": "coriolanus.csv"
+        "file_name": "coriolanus"
     },
     {
         "name": "Hamlet",
-        "file_name_html": "hamlet.html",
-        "file_name_csv": "hamlet.csv"
+        "file_name": "hamlet"
     },
     {
         "name": "Julius Caesar",
-        "file_name_html": "julius_caesar.html",
-        "file_name_csv": "julius_caesar.csv"
+        "file_name": "julius_caesar"
     },
     {
         "name": "King Lear",
-        "file_name_html": "king_lear.html",
-        "file_name_csv": "king_lear.csv"
+        "file_name": "king_lear"
     },
     {
         "name": "Macbeth",
-        "file_name_html": "macbeth.html",
-        "file_name_csv": "macbeth.csv"
+        "file_name": "macbeth"
     },
     {
         "name": "Othello",
-        "file_name_html": "othello.html",
-        "file_name_csv": "othello.csv"
+        "file_name": "othello"
     },
     {
         "name": "Romeo and Juliet",
-        "file_name_html": "romeo_and_juliet.html",
-        "file_name_csv": "romeo_and_juliet.csv"
+        "file_name": "romeo_and_juliet"
     },
     {
         "name": "Timon of Athens",
-        "file_name_html": "timon_of_athens.html",
-        "file_name_csv": "timon_of_athens.csv"
+        "file_name": "timon_of_athens"
     },
     {
         "name": "Titus Andronicus",
-        "file_name_html": "titus_andronicus.html",
-        "file_name_csv": "titus_andronicus.csv"
+        "file_name": "titus_andronicus"
     }
 ]
