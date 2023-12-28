@@ -34,7 +34,15 @@ def convert_to_md(play_meta):
         if row["Title"]:
             markdown += f"# {row['Title']}\n\n"
         if row["Chapter"]:
-            markdown += f"### {row['Chapter']}\n\n"
+
+            # to uppercase
+            act_chapter = row["Chapter"].upper() 
+            
+            if act_chapter.startswith("ACT"):
+                markdown += f"## {row['Chapter']}\n\n"
+            else:
+                markdown += f"### {row['Chapter']}\n\n"
+
         if row["Player"]:
             markdown += f"**{row['Player']}**\n\n"
         if row["Line"]:
